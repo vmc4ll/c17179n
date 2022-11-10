@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c17179n
 - 👀 I’m interested in system development, malware analysis 
 - 🌱 I’m currently learning C C++ 
-- 💞️ I’m looking to collaborate on KDE 
+- 💞️ I’m looking to collaborate on rizin
 - 📫 How to reach me ...
 
 <!---
